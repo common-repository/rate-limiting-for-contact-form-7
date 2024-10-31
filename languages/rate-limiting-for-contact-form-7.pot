@@ -1,0 +1,63 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rate limiting for Contact Form 7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-04 15:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: rate-limiting-for-contact-form-7"
+
+#. Description of the plugin
+msgid ""
+"Adds support to limit the number of cf7 form submissions per ip per period"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://zazell.net/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Rate limiting for Contact Form 7"
+msgstr ""
+
+#. Author of the plugin
+msgid "Zazell Kroeske"
+msgstr ""
+
+msgid "Activate Rate Limit"
+msgstr ""
+
+msgid "Rate limit settings"
+msgstr ""
+
+msgid "Limit period (in minutes)"
+msgstr ""
+
+msgid "Max number of submissions per period"
+msgstr ""
+
+msgid ""
+"Configure the rate limits per form below. Once the limit is reached for an "
+"ip, the user will not be able to submit anymore forms."
+msgstr ""
+
+msgid "Contact Forms to listen to"
+msgstr ""
+
+msgid ""
+"If no form is selected in the \"Contact Forms to listen to\" setting, all "
+"forms are limited"
+msgstr ""
+
+msgid "You have send to many messages already, please try again later"
+msgstr ""
